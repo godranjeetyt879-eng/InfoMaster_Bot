@@ -1,9 +1,0 @@
-python-telegram-bot==20.7
-flask==3.0.0
-sqlalchemy==2.0.23
-apscheduler==3.10.4
-matplotlib==3.8.2
-reportlab==4.0.7
-openpyxl==3.1.2
-python-dotenv==1.0.0
-aiohttp==3.9.1
